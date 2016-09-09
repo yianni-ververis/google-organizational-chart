@@ -2,6 +2,7 @@
 A Google Organization Chart extension for Qlik Sense as found at
 [https://developers.google.com/chart/interactive/docs/gallery/orgchart](https://developers.google.com/chart/interactive/docs/gallery/orgchart)
 
+included a sample QVF with the spreadsheet
 
 ## Installation
 - [Download zip file](https://github.com/yianni-ververis/google-organizational-chart/archive/master.zip)
