@@ -23,6 +23,8 @@ included a sample QVF with the spreadsheet
 - No Settings Yet
 
 
+<img src="preview2.png">
+
 <img src="preview.png">
 
 
