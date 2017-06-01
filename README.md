@@ -13,10 +13,12 @@ included a sample QVF with the spreadsheet
 ## Usage
 
 ##### Dimensions and Measures
-- add up to 3 dimensions with this order
-  1. Name
-  2. Manager, Reports to
-  3. Description for Tooltip
+- add up to 5 dimensions for each level
+  1. Employee
+  2. Manager
+  3. Director
+  4. CEO
+  5. Owner
 
 
 ##### Extension Settings
