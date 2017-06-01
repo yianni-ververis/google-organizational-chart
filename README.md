@@ -20,7 +20,7 @@ included a sample QVF with the spreadsheet
 
 
 ##### Extension Settings
-- No Settings Yet
+- Background Color of the textbox
 
 
 <img src="preview2.png">
