@@ -25,7 +25,7 @@ included a sample QVF with the spreadsheet
 - Background Color of the textbox
 
 
-<img src="preview2.png">
+<img src="preview3.png">
 
 <img src="preview.png">
 
